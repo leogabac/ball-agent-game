@@ -1,5 +1,8 @@
 # Byte-compiled / optimized / DLL files
 unity/
+for_agent.md
+runs/
+*.pdf
 
 __pycache__/
 *.py[codz]
